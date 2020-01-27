@@ -1,0 +1,48 @@
+{
+  "cards": [
+    {
+      "message": "PO is fast response to other",
+      "author": "monica@btpn.com",
+      "likes": ["monica@btpn.com", "dewa@btpn.com"],
+      "column": 1
+    },
+    {
+      "message": "Techlead is helpful and resposible",
+      "author": "dewa@btpn.com",
+      "column": 1
+    },
+    {
+      "message": "Good teamwork",
+      "author": "anneke@btpn.com",
+      "column": 1
+    },
+    {
+      "message": "Still late for standup",
+      "author": "monica@btpn.com"
+      "likes": ["dewa@btpn.com"],
+      "column": 2
+    },
+    {
+      "message": "Many team member leaving squad",
+      "author": "dewa@btpn.com"
+      "likes": ["monica@btpn.com", "dewa@btpn.com", "anneke@btpn.com"],
+      "column": 2
+    },
+    {
+      "message": "Need snack budget again",
+      "author": "anneke@btpn.com",
+      "comments": [
+        {
+          "author": "dewa@btpn.com",
+          "comment": "Agree!"
+        },
+        {
+          "author": "monica@btpn.com",
+          "comment": "Yeahhh"
+        }
+      ],
+      "likes": ["monica@btpn.com", "dewa@btpn.com"],
+      "column": 2
+    }
+  ]
+}
