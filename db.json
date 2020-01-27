@@ -18,13 +18,13 @@
     },
     {
       "message": "Still late for standup",
-      "author": "monica@btpn.com"
+      "author": "monica@btpn.com",
       "likes": ["dewa@btpn.com"],
       "column": 2
     },
     {
       "message": "Many team member leaving squad",
-      "author": "dewa@btpn.com"
+      "author": "dewa@btpn.com",
       "likes": ["monica@btpn.com", "dewa@btpn.com", "anneke@btpn.com"],
       "column": 2
     },
