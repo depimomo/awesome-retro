@@ -1,8 +1,8 @@
 {
   "users": [
     {
-      "name": "Monicaa",
-      "email": "monicaa@btpn.com",
+      "name": "Monica",
+      "email": "monica@btpn.com",
       "dateOfBirth": "1996-09-12",
       "employmentStatus": "FTE"
     },
@@ -17,7 +17,7 @@
       "email": "dewa@btpn.com",
       "dateOfBirth": "1994-11-29",
       "employmentStatus": "FTE"
-    },
+    }
   ],
   "cards": [
     {
